@@ -1,1 +1,1 @@
-# The default keymap for Redox
+# Programmers keymap for Redox based on Colemak mod-dh
